@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36" version="28.0.7">
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36" version="28.0.9">
   <diagram name="Page-1" id="tI0450gGZymvDKFin5-Z">
     <mxGraphModel dx="1001" dy="607" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
@@ -523,7 +523,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="Z1fGYT5zxFmEMoDy-E8V-332" value="est le parent (où CE_IS_PARENT=1)" style="curved=1;dashed=1;startArrow=ERzeroToMany;startSize=10;;endArrow=ERmandOne;endSize=10;;exitX=0.15;exitY=1;entryX=0.43;entryY=0;rounded=0;" parent="1" source="Z1fGYT5zxFmEMoDy-E8V-218" target="Z1fGYT5zxFmEMoDy-E8V-271" edge="1">
-          <mxGeometry x="-0.0191" y="4" relative="1" as="geometry">
+          <mxGeometry x="-0.0191" y="24" relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="206" y="285" />
               <mxPoint x="206" y="850" />
